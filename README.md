@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sergio Casado Fernández</h1>
-<h3 align="center">A 4th year student from the University of Leon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scasaf00&label=Profile%20views&color=0e75b6&style=flat" alt="scasaf00" /> </p>
 
